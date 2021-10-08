@@ -1,5 +1,5 @@
 # MachineLearning
-Repository for Machine Learning
+Repository for Machine Learning. I am mostly follwoing CognitiveClass's Machine Learning course.
 
 SimpleLinReg_single.py file contain the simple linear regression model fit on single fuel consumption dataset (FuelConsumption.csv) at a time...
 
